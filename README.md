@@ -1,6 +1,6 @@
 # Segundo-plano-Unity
 
-Basicamente es una segunda opción a la recomendada por <a href="https://docs.unity3d.com/es/530/ScriptReference/Application-runInBackground.html" target="_blank"> en la que el Prefab o GameObjet se ejecutara en segundo plano, pasando de su valor por omisión "false" (aplicación en pausa cuando está en segundo plano) a "true".
+Basicamente es una segunda opción a la recomendada por <a href="https://docs.unity3d.com/es/530/ScriptReference/Application-runInBackground.html" target="_blank"> Unity </a> en la que el Prefab o GameObjet se ejecutara en segundo plano, pasando de su valor por omisión "false" (aplicación en pausa cuando está en segundo plano) a "true".
 
 ## Version recomendada:
 
